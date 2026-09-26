@@ -178,19 +178,10 @@ Contributions, suggestions, and bug reports are welcome.
 
 Feel free to open an issue or submit a pull request.
 
-## 📄 License
-
-Add your preferred license here.
-
-For example:
-
-```text
-MIT License
-```
 
 ---
 
-Made with ❤️ by **azdevx**
+FinTools — a web project generated with Dyad and deployed/customized by **azdevx**
 
 🌐 https://azdevx.github.io/FinTools/
 💻 https://github.com/azdevx/FinTools
